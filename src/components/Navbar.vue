@@ -65,7 +65,7 @@
       <v-text-field
         hide-details
         prepend-icon="mdi-magnify"
-        placeholder="Search posts"
+        placeholder="Search posts in Vinterest"
         single-line
         v-model="searchTerm"
         @input="handleSearchPosts"
